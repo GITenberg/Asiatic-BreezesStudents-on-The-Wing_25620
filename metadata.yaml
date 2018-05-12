@@ -1,0 +1,32 @@
+_repo: Asiatic-BreezesStudents-on-The-Wing_25620
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2008-05-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25620'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Arab countries -- Fiction'
+- !lcc 'PS'
+title: Asiatic Breezes; Or, Students on The Wing
+url: http://www.gutenberg.org/ebooks/25620
